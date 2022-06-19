@@ -46,6 +46,7 @@ public:
 //        while(running) {
 //
 //        }
+        std::cout << "";
     }
 
     void draw_board() {
